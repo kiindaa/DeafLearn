@@ -1,7 +1,7 @@
 # Deaf Learn
 A Java-based software engineering project🚀
 
-Project Title: DeafLearn Online Learning Platform 
+Project Title: Deaf Learn Online Learning Platform 
 
 👥 Team Members: Kinda Albarghati, Abderrahmen Bchini, Sajeda Albarghati, Chams Ghorbel. 
 
