@@ -1,54 +1,66 @@
 # ASK
 A Java-based software engineering project
-🚀 Project Title: [Your Project Name Here]
-👥 Team Members
-Project Manager 🗂️: Oversees the project, manages timelines, and ensures communication within the team.
+🚀 Project Title: DeafLearn Online Learning Platform 
 
-Lead Developer 💻: Responsible for the main coding tasks and architecture of the application.
-UI/UX Designer 🎨: Designs the user interface and user experience, ensuring the application is user-friendly.
-Backend Developer 🛠️: Develops the backend logic, handles data processing, and integration with any databases or services.
-QA Engineer 🔍: Tests the application, identifies bugs, and ensures the software meets quality standards.
-Technical Writer 📝: Creates and maintains documentation for the project, including user manuals and technical specifications.
-Complete Guide of the markdown file ( .md)
-Link with more info with various formatting options
+👥 Team Members: Kinda Albarghati, Abderrahmen Bchini, Sajeda Albarghati, Chams Ghorbel. 
+Project Manager (Abderrahmen Bchini) 🗂️: Oversees the project, manages timelines, and ensures communication within the team.
+Lead Developer (Abderrahmen Bchini)💻: Responsible for the main coding tasks and architecture of the application.
+UI/UX Designer (Kinda Albarghati) 🎨: Designs the user interface and user experience, ensuring the application is user-friendly.
+Backend Developer (Chams Ghorbel)🛠️: Develops the backend logic, handles data processing, and integration with any databases or services.
+QA Engineer (Abderrahmen Bchini) 🔍: Tests the application, identifies bugs, and ensures the software meets quality standards.
+Technical Writer (Sajeda Albraghati) 📝: Creates and maintains documentation for the project, including user manuals and technical specifications.
+
 📋 Project Overview
-This project is designed to [describe the project objective here]. The goal is to create a software solution that addresses [specific problem or need]. This project will utilize Java and Object-Oriented Programming (OOP) principles to ensure scalability, maintainability, and clean design.
+This project is designed to enhance the educational experience for deaf and hard-of-hearing students. By integrating innovative features tailored to their unique needs, DeafLearn aims to create an inclusive learning environment that supports academic success. The goal is to create a software solution that addresses the daily challenges faced by deaf students in traditional educational settings. This project will utilize Java and Object-Oriented Programming (OOP) principles to ensure scalability, maintainability, and clean design.
 
-🛠️ Project Setup Steps
-1. GitHub Repository Setup 🗂️
-Create a GitHub account (if you don't already have one) at https://github.com.
-One team member should create a new repository:
-Go to GitHub → Repositories → New.
-Name the repository (e.g., java-project-teamX).
-Add a description (e.g., "A Java-based software engineering project").
-Select Public or Private.
-Add a README.md (this file).
-Invite team members as collaborators:
-Go to Settings → Collaborators.
-Add team members by GitHub usernames.
-2. Clone the Repository ⬇️
-Each team member should:
 
-Clone the repository:
-git clone https://github.com/[username]/[repository-name].git
-Navigate into the project folder:
-cd [repository-name]
 ⚙️ Project Development Steps
 1. Define Functional and Non-Functional Requirements 📝
-Functional Requirements (FR): List the core features the software must perform (e.g., user registration, data validation).
-Non-Functional Requirements (NFR): Define the system's quality attributes, like performance, security, scalability.
-2. Select a Software Development Life Cycle (SDLC) 🔄
-Your team should select an appropriate SDLC for managing the project's development. Here are some examples:
+Functional Requirements (FR):
+1. User Authentication:
+ . Users (students, teachers, and administrators) must be able to create accounts and log in securely.
+ . Password recovery options should be available.
+2. Course Management:
+ . Teachers can create, edit, and delete courses.
+ . Students can enroll in available courses and view course materials.
+3. Interactive Learning Tools:
+ . Integration of sign language videos to explain concepts.
+ . Text-to-speech and speech-to-text functionalities for communication.
+4. Assessment and Feedback:
+ . Ability for teachers to create quizzes and assignments.
+ . Students can submit assignments and receive feedback.
+5. Communication Features:
+ . Real-time chat functionality with text and video options.
+ . Discussion forums for students to interact with peers and instructors.
+6. Accessibility Features:
+ . Customizable interface options (e.g., font size, color contrast).
+ . Support for multiple languages, most importantly sign language.
+7. Progress Tracking:
+ . Students can view their academic progress and grades.
+ . Teachers can monitor student performance and engagement levels.
+8. Resource Library:
+ . A repository of educational materials (videos, articles, etc.) specifically designed for deaf and hard-of-hearing students with animated sign language avatars.
 
-Waterfall: A linear, sequential process where each phase must be completed before the next begins.
-Agile (Scrum, Kanban): An iterative approach where the project is developed incrementally.
-Spiral: Focuses on risk management and is ideal for large, complex projects.
-V-Model: An extension of the Waterfall model that emphasizes testing at each phase.
-After reviewing, choose the best model for your project and document your choice in this README.md.
+Non-Functional Requirements (NFR): 
+1. Usability:
+ . The user interface should be intuitive and easy to navigate for all users.
+2. Performance: 
+ . The platform should provide a quick and seamless experience for users, handling a large number of users at the same time without slowing down.
+3. Reliability:
+ . The system should ensure that every user can access the platform consistently.
+ . Data backup should occur daily to prevent data loss and ensure data integrity.
+ 4. Scalability:
+ . The architecture should support the addition of new features and an increasing number of users without requiring a complete redesign.
+5. Security: 
+ . User data must be encrypted both in transit and at rest.
+ . To safeguard sensitive information, the system must utilize role-based access control.
+6. Maintenance:
+ . The codebase should follow OOP principles for modularity and ease of updates.
+ . Documentation should be comprehensive to assist future developers in understanding the system.
+
 
 3. Define Your Process (If Agile) ⚡
 If you choose Agile, such as Scrum or Kanban, follow these steps:
-
 Scrum Example
 Roles:
 Product Owner: Defines the vision and backlog.
