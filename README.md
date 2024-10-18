@@ -1,8 +1,10 @@
 # ASK
-A Java-based software engineering project
-🚀 Project Title: DeafLearn Online Learning Platform 
+A Java-based software engineering project🚀
+
+Project Title: DeafLearn Online Learning Platform 
 
 👥 Team Members: Kinda Albarghati, Abderrahmen Bchini, Sajeda Albarghati, Chams Ghorbel. 
+
 Project Manager (Abderrahmen Bchini) 🗂️: Oversees the project, manages timelines, and ensures communication within the team.
 Lead Developer (Abderrahmen Bchini)💻: Responsible for the main coding tasks and architecture of the application.
 UI/UX Designer (Kinda Albarghati) 🎨: Designs the user interface and user experience, ensuring the application is user-friendly.
