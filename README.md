@@ -7,7 +7,7 @@ DeafLearn is a Java-based online learning platform designed to enhance education
 
 ## Team Roles  
 - **Project Manager, QA Engineer & UI/UX Designer:** Kinda Albarghati 👩‍💼  
-- **Lead Developer & Project Manager:** Abderrahmen Bchini 💻  
+- **Lead Developer:** Abderrahmen Bchini 💻  
 - **Backend Developer:** Chams Ghorbel 🛠️  
 - **Technical Writer:** Sajeda Albarghati 📝  
 
